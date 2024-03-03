@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Maps/LevelMap.umap",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/BP_GameModeBase.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/BP_Pawn.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Meshes/smash4.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Meshes/smash2.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Meshes/shoot.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/BP_LevelManager.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Materials/M_white.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Meshes/obstacle.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Meshes/obstacle1.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Meshes/obstacle2.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Meshes/platform.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Assets/Materials/PlatformMat.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/BP_PlatformBase.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/BP_MovingPlatform.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/library/BPL_Lib.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/library/BPM_Lib.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/spawners/BP_PlatformSpawner.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/spawners/BP_SpawnerBase.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/Platform/BP_PlatformBase.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/Platform/BP_MovingPlatform.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/BPM_Lib.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Blueprints/BPL_Lib.uasset",
+				"D:/Unreal Projects/School work/shapeSmashUnreal/Content/Maps/Level.umap"
+			]
+		}
+	]
+}
